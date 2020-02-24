@@ -1,0 +1,35 @@
+/* EL id lo mandas a llamar con #*/
+/* Los tag se mandan a llamar poniendo el nombre del tag*/
+#Inicio span {
+    color: burlywood;
+    font-weight: 100;
+}
+/* La clase se manda a llamar con un punto al inicio ej .class1 */
+#Inicio .class1 {
+    color: rgb(139, 0, 86);
+}
+#YouTube .class2  {
+    color: rgb(100, 90, 0);
+    background-color: honeydew;
+}
+#YouTube .class3 {
+    color: darkred;
+    background-color: honeydew;
+}
+#Items .back {
+    font-family: sans-serif;
+}
+#Items .back span {
+    background-color: rgb(92, 255, 28);
+}
+/* Estilos para tabla de archivo form.html */
+body {
+    background-image: url(C:/Users/Codellege.DESKTOP-KRVAVO3/HTML/img4.jpg);
+    background-size: 100vmax;
+}
+.espacio-tabla {
+    padding-inline-start: 40mm;
+}
+.fila {
+    color: cornsilk;
+}
